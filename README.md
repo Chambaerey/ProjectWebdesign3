@@ -49,7 +49,7 @@ function GetPositionIP()
 >Haalt latitude en longitude op via het IP van de gebruiker, hiervoor gebruiken we een Json service "http://freegeoip.net/json/".
 
 function GetWeather(days)
->Haalt het weer op via openweathermap.org aan de hand van de eerder verkregen longitude/latitude en slaat dit op in een weather object.
+>Haalt het weer op via "http://openweathermap.org" aan de hand van de eerder verkregen longitude/latitude en slaat dit op in een weather object.
 
 function AppendText()
 >Zet het weather object om naar text en voegt deze toe aan de container, stelt ook de achtergrond in aan de hand van de function GetBackground(id) method.
@@ -58,4 +58,4 @@ function GetBackground(id)
 >Gebruikt het weer-ID om het weertype te bepalen.
 
 function GetWindDir(deg)
->Zet het aantal graden van de windrichting om naar text (bv South-East).
+>Zet het aantal graden van de windrichting om naar text (bv. South-East).
