@@ -1,0 +1,15 @@
+/* website preferences
+ ------------------------------------------------------------------*/
+body { background: #fff; font: 12px/18px Verdana, Arial, sans-serif; color: #464648; margin: 10px }
+h1 { margin: 8px 8px 8px 0; font-size: 18px; line-height: 20px; color: #000; }
+h2 { margin: 4px; font-size: 15px; line-height: 20px; }
+ul, ol { margin: 0 0 18px 16px; }
+p, form { margin: 0 0 18px 0; }
+a { color: #0064ff; }
+a:hover { color: #0064ff; }
+input, textarea, select { font-size: 12px; font-family: Verdana, sans-serif; color: #464648; }
+strong { font-weight: bold; }
+em { font-style: italic; }
+td, th { vertical-align: top; text-align: left; }
+
+ul { list-style: square }
