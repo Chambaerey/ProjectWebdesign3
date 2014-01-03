@@ -12,7 +12,7 @@ Afhankelijk van het weertype zal de achtergrond van de container veranderen, wee
 Groep 13 bestaat uit Chambaere Yentl en De Moor Ken.
 Het grootste deel van de opdracht hebben we samen gemaakt tijdens enkele samenkomsten na school of via skype.
 
-2  Implementeren in een eigen Website
+2  Implementeren in een eigen website
 ---------------------------------------
 ### In de webpagina
 De code implementeren is erg simpel, het script laden en een container aanmaken is voldoende.
