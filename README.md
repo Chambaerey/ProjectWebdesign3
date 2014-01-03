@@ -9,7 +9,8 @@ Project Webdesign - Groep 13
 Als opdracht voor webdesign semester 3 hebben we ervoor gekozen een simpele weer applicatie te bouwen, deze voorspelt het weer van de huidige en volgende dag.
 Afhankelijk van het weertype zal de achtergrond van de container veranderen, weertypes zijn bv. storm, sneeuw of mist.
 ### Groep 13
-Groep 13 bestaat uit Chambaere Yentl en De Moor Ken.
+//backup// Groep 13 bestaat uit Chambaere Yentl en De Moor Ken.
+Ǵ̸̡̣̲r͞҉͚͔͠ọ̣͡e̢̺͙̰̤̺̗͎ṕ̸͉̮̬͇̱̪̗̖͉͘ ̸̡̰̮̖͖̙͎1̛̺̟̳͎͎̱͎͔̤͝3̘̯̝͔̫͝ ̡̩͞b̼̘͎̘͖e͏͓͙̗̩̤͉̪̝͜͞s̰͖̺̙̫̺͇͘t̡̪̦̝̪͇̥̕ͅa̵̵̖̼͇̪̜a̧̛̤̣̰̬͇͖͈̘ͅt̴͍͖̗̪̹̳̀ ̶̢̠͓̺͢u̢͈͙͎͇͘į̺̼̣ţ̰̩̬̫͇̳͔̼̪́ ̲͔̱͎͖̲C̕҉̘͈͜h͓͇͚̠͚͈a̷̩̲͓̞̳͔̼̫̬m̵̯̬̟̻͢b͏̧̹a̘̞͈ͅe̵̖̙̪̳̺̬̱͘͠r͈͙͔̟͉͓̻e̵̙̰̯̮̩͍ͅ ̵̣̰̳̹̱̞͘͜ͅY̝͢ȩ̰͈̣ͅn͉̯͠t̺͠l̡̀҉̖͖͓̗ ̝̖̩͙̯̲e̶͠͏̱̘̻͇͍n̷̙̹̠͈͚̫̺ ̱͘D̦͓̥̰̕e̴̤̺͚̲͞ ̘̖̟͘M͔̱ͅǫ̥̠̹͡ͅo̖̺̱̖̺̠͔̹r̘͖̘̥̭ ̘͎̬̗̫̩̺͝K̛̛͚̺̞e̷͈̼͚͖̹̭͉ņ̨̖̰͙̝͔̮̰͍.̬̹̰̥͇͔̙̘̀
 Het grootste deel van de opdracht hebben we samen gemaakt tijdens enkele samenkomsten na school of via skype.
 
 2  Implementeren in een eigen website
