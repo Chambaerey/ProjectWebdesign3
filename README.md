@@ -59,3 +59,37 @@ function GetBackground(id)
 
 function GetWindDir(deg)
 >Zet het aantal graden van de windrichting om naar text (bv. South-East).
+
+4  Voorbeeld
+------------------
+![voorbeeld](http://puu.sh/69e48.jpg "voorbeeld")
+
+```
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>WeerApp</title>
+    <link rel="stylesheet" href="lib/css/ui-lightness/jquery-ui.css" />
+    <script src="lib/jquery.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script src="weather.js"></script>
+    <link rel="stylesheet" href="css/Style.css" />
+    <script>
+
+    </script>
+</head>
+<body>
+    <h1>Weather API</h1>
+    <div id="tabs">
+        <ul>
+            <li><a href="#Today">Today</a></li>
+            <li><a href="#Tomorrow">Tomorrow</a></li>
+        </ul>
+        <div id="Today" class="tab">
+        </div>
+        <div id="Tomorrow" class="tab">
+        </div>
+    </div>
+</body>
+</html>
+```
