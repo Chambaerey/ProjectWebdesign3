@@ -86,7 +86,7 @@ function AppendText() {
                             + "</br>windspeeds: " + weather.todayWindSpeed + " km/h"
                             + "</br>wind direction: " + weather.todayWindDeg + " degrees [" + GetWindDir(weather.todayWindDeg) + "]"
                             + "</p>");
-    $(containerTomorrow).css('background-image', 'url(' + weatherStringToday + ')');
+    $(containerTomorrow).css('background-image', 'url(' + weatherStringTomo + ')');
     $(containerTomorrow).css('background-size', '100%');
     $(containerTomorrow).append("<p>Location: " + weather.city
                             + "</br>temperature: " + weather.tomoTemp + " degrees Celsius"
