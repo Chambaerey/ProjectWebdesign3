@@ -16,6 +16,7 @@ Het grootste deel van de opdracht hebben we samen gemaakt tijdens enkele samenko
 ---------------------------------------
 ### In de webpagina
 De code implementeren is erg simpel, het script laden en een container aanmaken is voldoende, zorg ervoor dat de Jquerry library geladen is.
+
 `<script src="weather.js"></script>`
 
 De containers zijn \<div\> containers met ID "Today" en "Tomorrow".
